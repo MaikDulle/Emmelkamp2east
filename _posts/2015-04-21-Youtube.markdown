@@ -7,5 +7,5 @@ image: "img/IMG-20220527-WA0012.jpg"
 
 ### Youtube
 Hier kannst du unsere Reisevideo verfolgen ohne dabei direkt bei Youtube vorbeizuschauen. Viel Spaß mit unserem Content :)
-<br>
+<br><br>
 Here you can follow our travel video without going directly to Youtube. Have fun with our content :)
