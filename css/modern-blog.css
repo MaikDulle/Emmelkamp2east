@@ -1,6 +1,10 @@
 
-/*CARD */
 
+.logo {
+	max-width: 100px;
+}
+
+/*CARD */
 .card {
 	position: relative;
 	float: left;
