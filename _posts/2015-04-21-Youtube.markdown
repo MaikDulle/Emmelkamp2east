@@ -1,9 +1,10 @@
 ---
 title:  "Youtube"
-subtitle: "Schau dir unsere Videos an!"
+subtitle: "Hier geht es zu unseren Reisevideos!"
 image: "img/b.jpg"
 
 ---
 
 ### Youtube
 Hier kannst du unsere Reisevideo verfolgen ohne dabei direkt bei Youtube vorbeizuschauen. Viel Spaß mit unserem Content :)
+Here you can follow our travel video without going directly to Youtube. Have fun with our content :)
