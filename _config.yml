@@ -1,7 +1,11 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Emmelkamp2east
+description: Reiseblog zweier Amateur Motorrad-Enthusiasten
+keywords: Travelblog, Emmelkamp2east
+author: Maik Dulle
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+
+socials:
+  Youtube: https://www.youtube.com/@Emmelkamp2east
+  Instagram: https://www.instagram.com/emmelkamp2east/
