@@ -1,0 +1,9 @@
+---
+title:  "Spenden/Donation"
+subtitle: "Falls du uns unterstützen willst, kannst du das hier tun"
+image: "img/Erster_Entwurf_Logo_Trip3-modified.png"
+---
+
+### Spenden/Donation
+Hier kannst du uns unterstützen - buy us a drink :)
+
