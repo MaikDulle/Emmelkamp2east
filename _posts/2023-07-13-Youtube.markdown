@@ -6,6 +6,6 @@ image: "img/IMG-20220527-WA0012.jpg"
 ---
 
 ### Youtube
-Hier kannst du unsere Reisevideo verfolgen ohne dabei direkt bei Youtube vorbeizuschauen. Viel Spaß mit unserem Content :)
+Hier geht es zu unseren Reisevideos. Viel Spaß mit unserem Content :)
 <br><br>
-Here you can follow our travel video without going directly to Youtube. Have fun with our content :)
+Here you can find our travel videos. Have fun with our content :)
