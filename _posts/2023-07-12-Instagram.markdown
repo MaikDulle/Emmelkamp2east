@@ -9,7 +9,7 @@ Hier findest du unseren Instagram Feed mit Fotos, Impressionen und kleineren Vid
 <br><br>
 Here you can find our Instagram feed with photos, impressions and smaller video snippets. You can find our bigger videos/projects on Youtube. Have fun with our content :)
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Embed Instagram Feed</title>
