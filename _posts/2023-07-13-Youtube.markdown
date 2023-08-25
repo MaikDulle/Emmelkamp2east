@@ -13,8 +13,8 @@ Here you can find our travel videos. Have fun with our content :)
 Erste Etappe - Deutschland
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YvJlv-nMqmk?si=oDLGyn8JFpzFudEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-Zweite Etappe
+Zweite Etappe - Österreich
 <iframe width="560" height="315" src="https://www.youtube.com/embed/028UXjZo9sM?si=WlI7N3yic_BBAsRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-Dritte Etappe
+Dritte Etappe - Slowakei & Ungarn
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL1wXsYIsX4?si=pYnJenNsNsNVOl1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
