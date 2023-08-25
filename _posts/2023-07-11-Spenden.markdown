@@ -1,5 +1,5 @@
 ---
-title:  "Spenden/Donation"
+title:  "Spenden/Donation & Tour Updates"
 subtitle: "Falls du uns unterstützen willst, dann klicke hier!"
 image: "img/IMG-20220527-WA0005.jpg"
 ---
@@ -15,3 +15,5 @@ Buy us a drink :)
 <img alt="" border="0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+### Unsere Touren
+Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken gemerget haben, kann es zu kleineren Abweichungen kommen! :)
