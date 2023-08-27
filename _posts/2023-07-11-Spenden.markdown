@@ -21,5 +21,5 @@ Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken mit 
 #### Deutschland
 Unsere Tour durch Deutschland hier als GPX Download [Download als GPX][1]
 
-[1]:{{ https://maikdulle.github.io/Emmelkamp2east/#/2023/07/11/Spenden }}/download/Tour_Etappe1_Deutschland.gpx
+[1]:{{ https://maikdulle.github.io/Emmelkamp2east/#/2023/07/11/Spenden }}/downloads/Tour_Etappe1_Deutschland.gpx
 
