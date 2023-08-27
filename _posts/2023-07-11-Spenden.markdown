@@ -19,7 +19,7 @@ Buy us a drink :)
 Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken mit GPX Weaver gemerget haben, kann es zu kleineren Abweichungen kommen! :)
 
 #### Deutschland
-Unsere Tour durch Deutschland hier als GPX Download [Download als GPX][1]
+Unsere Tour durch Deutschland hier als [GPX Download hier][1]
 
 [1]:{{ https://maikdulle.github.io/Emmelkamp2east/#/2023/07/11/Spenden }}/downloads/Tour_Etappe1_Deutschland.gpx
 
