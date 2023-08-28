@@ -27,6 +27,7 @@ Unsere Tour durch Deutschland (1308 KM) als Download
  <br>
 <a href="downloads/Etappe1_Deutschland_Tour.gpx" download>Klick hier für GPX Download hier</a>
 
+<br>
 #### Österreich
 Unsere Tour durch Österreich (814 KM) als Download
  <img src="downloads/Etappe2_Österreich_Tour.png" class="responsive" style="max-width:100%;">
