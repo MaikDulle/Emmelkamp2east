@@ -25,11 +25,7 @@ Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken mit 
 Unsere Tour durch Deutschland als Download
  <img src="downloads/1Tour_Germany.png" class="responsive">
  
-.responsive {
-  width: 100%;
-  height: auto;
-}
 <br>
-<a href="downloads/Tour_Etappe1_Deutschland.gpx" download>GPX Download hier</a>
+<a href="downloads/Tour_Etappe1_Deutschland.gpx" download>Klick hier für GPX Download hier</a>
 
 
