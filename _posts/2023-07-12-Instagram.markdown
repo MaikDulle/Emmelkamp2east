@@ -15,7 +15,7 @@ Here you can find our Instagram feed with photos, impressions and smaller video 
     <title>Embed Instagram Feed</title>
     <script
       type="module"
-      src="https://unpkg.com/@nocodeapi/embed-instagram-feed@latest/embed-instagram-feed.js?module"
+      src="https://unpkg.com/@Ignasiou/embed-instagram-feed@latest/embed-instagram-feed.js?module"
     ></script>
   </head>
   <body>
