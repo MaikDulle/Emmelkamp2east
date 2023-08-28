@@ -22,13 +22,13 @@ Buy us a drink :)
 Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken mit GPX Weaver gemerget haben, kann es zu kleineren Abweichungen kommen! :)
 
 #### Deutschland
-Unsere Tour durch Deutschland (xxx KM) als Download
+Unsere Tour durch Deutschland (1308 KM) als Download
  <img src="downloads/Etappe1_Deutschland_Tour.png" class="responsive" style="max-width:100%;">
  <br>
 <a href="downloads/Etappe1_Deutschland_Tour.gpx" download>Klick hier für GPX Download hier</a>
 
 #### Österreich
 Unsere Tour durch Österreich (814 KM) als Download
- <img src="downloads/Etappe1_Österreich_Tour.png" class="responsive" style="max-width:100%;">
+ <img src="downloads/Etappe2_Österreich_Tour.png" class="responsive" style="max-width:100%;">
  <br>
-<a href="downloads/Etappe1_Österreich_Tour.gpx" download>Klick hier für GPX Download hier</a>
+<a href="downloads/Etappe2_Österreich_Tour.gpx" download>Klick hier für GPX Download hier</a>
