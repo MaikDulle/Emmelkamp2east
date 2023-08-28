@@ -23,8 +23,9 @@ Touren sind per Land geordnet. Dadurch, dass wir verschiedene Tagesstrecken mit 
 
 #### Deutschland
 Unsere Tour durch Deutschland als Download
- <img src="downloads/Tour_Germany.png" class="responsive">
- .responsive {
+ <img src="downloads/1Tour_Germany.png" class="responsive">
+ 
+.responsive {
   width: 100%;
   height: auto;
 }
