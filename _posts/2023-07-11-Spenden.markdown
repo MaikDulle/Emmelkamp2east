@@ -27,4 +27,8 @@ Unsere Tour durch Deutschland als Download
  <br>
 <a href="downloads/Etappe1_Deutschland_Tour.gpx" download>Klick hier für GPX Download hier</a>
 
-
+#### Österreich
+Unsere Tour durch Österreich als Download
+ <img src="downloads/Etappe1_Deutschland_Tour.png" class="responsive" style="max-width:100%;">
+ <br>
+<a href="downloads/Etappe1_Deutschland_Tour.gpx" download>Klick hier für GPX Download hier</a>
