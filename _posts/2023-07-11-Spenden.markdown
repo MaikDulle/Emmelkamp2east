@@ -1,6 +1,6 @@
 ---
 title:  "Spenden/Donation & Tour Updates"
-subtitle: "Falls du uns unterstützen willst, dann klicke hier!"
+subtitle: "Falls du uns unterstützen oder unsere Tour nachfahren willst, dann klicke hier!"
 image: "img/IMG-20220527-WA0005.jpg"
 ---
 
