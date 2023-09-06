@@ -24,3 +24,8 @@ Here you can find our travel videos. Have fun with our content :)
 <div class="responsive-iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL1wXsYIsX4?si=pYnJenNsNsNVOl1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br><br>
+### Vierte Etappe - Kroatien
+<div class="responsive-iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UhasIAntUuI?si=cV8M7edS1-E0t4e1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

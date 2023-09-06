@@ -33,3 +33,10 @@ Unsere Tour durch Österreich (814 KM) als Download
  <img src="downloads/Etappe2_Österreich_Tour.png" class="responsive" style="max-width:100%;">
  <br>
 <a href="downloads/Etappe2_Österreich_Tour.gpx" download>Klick hier für den GPX Download</a>
+
+<br>
+#### SLowakei & Ungarn
+Unsere Tour durch die Slowakei und Ungarn (673 KM) als Download
+ <img src="downloads\Etappe3_SloUngarn_Tour.png" class="responsive" style="max-width:100%;">
+ <br>
+<a href="downloads\Etappe3_SloUngarn_Tour.gpx" download>Klick hier für den GPX Download</a>
