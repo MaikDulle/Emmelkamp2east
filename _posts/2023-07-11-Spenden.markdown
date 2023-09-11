@@ -47,3 +47,10 @@ Unsere Tour durch Kroatien (1375 KM) als Download
  <img src="downloads\Etappe4_Cro_Tour.png" class="responsive" style="max-width:100%;">
  <br>
 <a href="downloads\Etappe4_Cro_Tour.gpx" download>Klick hier für den GPX Download</a>
+
+<br>
+#### KBosnien & Herzegowina
+Unsere Tour durch Kroatien (345 KM) als Download
+ <img src="downloads\Etappe5_BiH_Tour.png" class="responsive" style="max-width:100%;">
+ <br>
+<a href="downloads\Etappe5_BiH_Tour.gpx" download>Klick hier für den GPX Download</a>
