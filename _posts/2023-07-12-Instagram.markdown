@@ -1,7 +1,7 @@
 ---
 title:  "Instagram"
 subtitle: "Verfolge unseren Instagram Feed!"
-image: "img/IMG-20220528-WA0004.jpg"
+image: "img/Foto_Insta.jpg"
 ---
 
 ### Instagram
