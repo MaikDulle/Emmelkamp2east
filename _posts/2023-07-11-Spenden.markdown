@@ -50,7 +50,21 @@ Unsere Tour durch Kroatien (1375 KM) als Download
 
 <br>
 #### Bosnien & Herzegowina
-Unsere Tour durch Kroatien (345 KM) als Download
+Unsere Tour durch Bosnien & Herzegowina (345 KM) als Download
  <img src="downloads\Etappe5_BiH_Tour.png" class="responsive" style="max-width:100%;">
  <br>
 <a href="downloads\Etappe5_BiH_Tour.gpx" download>Klick hier für den GPX Download</a>
+
+<br>
+#### Montenegro
+Unsere Tour durch Montenegro (424 KM) als Download
+ <img src="downloads\Etappe6_MNE_Tour.png" class="responsive" style="max-width:100%;">
+ <br>
+<a href="downloads\Etappe6_MNE_Tour.gpx" download>Klick hier für den GPX Download</a>
+
+<br>
+#### Albanien
+Unsere Tour durch Albanien (530 KM) als Download
+ <img src="downloads\Etappe7_ALB_Tour.png" class="responsive" style="max-width:100%;">
+ <br>
+<a href="downloads\Etappe7_ALB_Tour.gpx" download>Klick hier für den GPX Download</a>
