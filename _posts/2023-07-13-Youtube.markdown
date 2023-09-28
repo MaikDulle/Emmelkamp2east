@@ -39,3 +39,12 @@ Here you can find our travel videos. Have fun with our content :)
 <div class="responsive-iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wrB4Tk8cKho?si=tIQgddJA766QZGJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br><br>
+### Siebte Etappe - Albanien
+<div class="responsive-iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PyaSIHBEfgs?si=C-_rTOEoJ9Bnr4bK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+### Achte Etappe - Griechenland
+<div class="responsive-iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yDBnlK3l8BQ?si=VJFlId1F5uEXiEQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
