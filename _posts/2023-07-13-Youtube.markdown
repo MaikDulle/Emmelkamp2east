@@ -1,7 +1,7 @@
 ---
 title:  "Youtube"
 subtitle: "Hier geht es zu unseren Reisevideos!"
-image: "img/Thumbnail_YT.png"
+image: "img/GOPR0809.JPG"
 
 ---
 
