@@ -48,3 +48,11 @@ Here you can find our travel videos. Have fun with our content :)
 <div class="responsive-iframe-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yDBnlK3l8BQ?si=VJFlId1F5uEXiEQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+### Neunte Etappe - Türkei
+<div class="responsive-iframe-container">
+    <iframe width="560" height="315" src="https://youtu.be/vZ_XYlR6x_M?si=HVfTzpSoVxmupMot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+### Zehnte Etappe - Bulgarien
+<div class="responsive-iframe-container">
+    <iframe width="560" height="315" src="https://youtu.be/1GPTQAb58jU?si=Nbvn88-4TMhQYAos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
